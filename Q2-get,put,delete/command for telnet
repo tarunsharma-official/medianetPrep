@@ -1,0 +1,7 @@
+telnet localhost 8000
+PUT name John
+PUT age 30
+GET name
+GET age
+DELETE name
+GET name
